@@ -20,7 +20,7 @@
             </div>
             <div style="float: left">
                 <label>Ingrese Municipio</label><br>
-                <input type="text" name="muicipio"/>                 
+                <input type="text" name="muicipio"/ >                 
             </div>
             
             <div style="float: left">
